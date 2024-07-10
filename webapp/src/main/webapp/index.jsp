@@ -34,6 +34,6 @@
    <h1> Thank You </h1>
    <br>
 
-   <h1>WoW 12234 Happy Learning.</h1>
+   <h1>Happy Learning. See You Again.</h1>
   
 </form>
